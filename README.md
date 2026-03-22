@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <br>
 <h2>Desktop:</h2>
-<img src="https://github.com/caioikegami/Projetos-Responsivos---DevClub/blob/main/DESAFIO%201/assets/Desktop.png?raw=true"/>
+<img src="https://github.com/caioikegami/Wide-Coverage-location---DevClub/blob/main/assets/desktop.png?raw=true"/>
 <br>
 <h2>Mobile</h2>
-<img src="https://github.com/caioikegami/Projetos-Responsivos---DevClub/blob/main/DESAFIO%201/assets/Mobile.png?raw=true" />
+<img src="https://github.com/caioikegami/Wide-Coverage-location---DevClub/blob/main/assets/mobile.png?raw=true" />
