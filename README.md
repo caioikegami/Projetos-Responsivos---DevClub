@@ -2,3 +2,5 @@
 <br>
 <br>
 <h2>Esse foi o primeiro projeto que aprendi no <a href="https://www.devclub.com.br/">DevClub</a></h2>
+
+<img src="https://github.com/caioikegami/Projetos-Responsivos---DevClub/blob/main/DESAFIO%201/assets/Desktop.png?raw=true"/>
